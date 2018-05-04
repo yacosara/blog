@@ -9,7 +9,6 @@
 <br><hr>
 {{ $articulo->category->name }}
 <br><hr>
-{{ $articulo->tags }}
 <br><hr>
 
 
